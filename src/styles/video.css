@@ -24,8 +24,11 @@
 .video_text {
     font-size: 26px;
     font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    
 }
 
 .text_news {
     margin-left: 50px;
+
 }

@@ -33,7 +33,7 @@ const Footer = () => {
                             <div className="footer__card">
                                 <ul className="footer__social-list">
                                     <li className="footer__social-item">
-                                        <a href="https://www.instagram.com/zangiota.ziyoratgoh/">
+                                        <a href="https://instagram.com/zangiota.uz?igshid=ZDdkNTZiNTM=">
                                             <img  src={instagramImage} alt="instagram.png" />
                                         </a>
                                     </li>
