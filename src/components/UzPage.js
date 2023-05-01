@@ -9,6 +9,8 @@ import PrayerTime from '../UzPageComponents/PrayerTime';
 import Footer from '../UzPageComponents/Footer';
 import Appvideo from '../UzPageComponents/video';
 import Mainvideo from '../UzPageComponents/donate';
+import SimpleMap from "../UzPageComponents/gallery";
+import NearPlaces from "../UzPageComponents/near";
 
 const UzPage = () => {
     return (
@@ -16,6 +18,8 @@ const UzPage = () => {
             <Header />
             <Main />
             <Mainvideo />
+            <NearPlaces />
+            <SimpleMap />
             <Appvideo />
             <AboutMosque />
             <MosquSlider />

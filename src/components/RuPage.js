@@ -9,6 +9,9 @@ import PrayerTime from '../RuPageComponents/PrayerTime';
 import Footer from '../RuPageComponents/Footer';
 import Appvideo from '../RuPageComponents/video';
 import Mainvideo from '../RuPageComponents/donate';
+import SimpleMap from "../RuPageComponents/gallery";
+import NearPlaces from "../RuPageComponents/near";
+
 
 
 const RuPage = () => {
@@ -17,6 +20,8 @@ const RuPage = () => {
             <Header />
             <Main />
             <Mainvideo />
+            <NearPlaces />
+            <SimpleMap />
             <Appvideo />
             <AboutMosque />
             <MosquSlider />

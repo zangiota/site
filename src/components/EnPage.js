@@ -9,6 +9,8 @@ import PrayerTime from '../EnPageComponents/PrayerTime';
 import Footer from '../EnPageComponents/Footer';
 import Appvideo from '../EnPageComponents/video';
 import Mainvideo from '../EnPageComponents/donate';
+import SimpleMap from "../EnPageComponents/gallery";
+import NearPlaces from "../EnPageComponents/near";
 
 
 const EnPage = () => {
@@ -17,6 +19,8 @@ const EnPage = () => {
             <Header />
             <Main />
             <Mainvideo />
+            <NearPlaces />
+            <SimpleMap />
             <Appvideo />
             <AboutMosque />
             <MosquSlider />
